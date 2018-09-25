@@ -1,0 +1,192 @@
+---
+title: "CV"
+author: "Diego Halabí"
+email: diego.halabi@uach.cl
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+jobtitle: Doctor of Dental Sugery, PhD on Medical Science
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+phone: +56 9 61592545
+address: Faculty of Medicine, Universidad Austral de Chile. Isla Teja S/N, Valdivia,
+  Chile.
+updated: no
+urlcolor: blue
+web: diegohalabi.cl
+---
+
+# HIGHER EDUCATION
+
+2005-2011: Doctor on Dental Surgery (**DDS**). School of Dentistry, Universidad Austral de Chile. Valdivia, Chile. Thesis: Logistic Regression Analysis of Risk Factors for the Development of Alveolar Osteitis.
+
+2012-2017: Doctor on Medical Science (**PhD**). Faculty of Medicine, Universidad Austral de Chile. Valdivia, Chile. Thesis: Maternal chronodisruption throughout pregnancy impairs glucose homeostasis and adipose tissue physiology in the offspring.
+
+# EXPERIENCE
+
+## ACADEMIC
+
+2018-actual. Assistant Professor, School of Dentistry, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile. Resol.106/2018.
+
+2017-actual. Guest Professor, Institute of Public Health, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
+
+2014-2017. Guest Professor (Pathophysiology course), Institute of Anatomy, Histology and Pathology, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
+
+2012-2017. Adjunt Professor, School of Dentistry, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
+
+2006-2011. Undergraduate Teaching Assistant (Human Anatomy, Head and Neck Anatomy, Clinical Periodontology and Research Methods). Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
+
+## PROFESSIONAL
+
+2018-actual. Postdoctoral Researcher, Grant: Fondef ID17AM0043.  Center for Interdisciplinary Studies on Nervous System (CISNe), Valdivia, Chile.
+
+2013-2017. Doctoral Researcher, Grants: Conicyt Anillo ACT-1116, Fondecyt 1110220, and Fondecyt 1120938. Universidad Austral de Chile, Valdivia, Chile.
+
+# PUBLICATIONS
+
+## ISI
+
+Segura C, **Halabi D**, Navarro N. Design and validation of a basic Dental Psychomotor Skills Test (DePS) for novice dentistry students. Journal of Dental Education. 2018 Oct;82(10):1098-1104. 10.21815/JDE.018.111
+
+Salazar E, Richter H, Spichiger C, Mendez N, **Halabi D**, Vergara K, Alonso-Vasquez P, Corvalan F, Azpeleta C, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption leads to persistent changes in foetal and adult adrenal clock and function. The Journal of Physiology. 2018 Aug 17. doi: 10.1113/JP276083.
+
+**Halabi D**, Escobar J, Alvarado CA, Martinez NM, Muñoz C. Chlorhexidine for prevention of alveolar osteitis: randomised clinical trial. Journal of Applied Oral Science. 2018; 26:e20170245. doi: 10.1590/1678-7757-2017-0245
+
+Mendez N & **Halabi D**, Spichiguer C, Salazar E, Vergara K, Alonso-Vasquez P, Carmona P, Sarmiento J, Richer H, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption impairs circadian physiology in rat male offspring, increasing the risk of chronic disease. Endocrinology. 2016 Dec;157(12):4654-4668. doi:  10.1210/en.2016-1282
+
+**Halabi D**, Escobar J, Muñoz C, Uribe S. Logistic regression analysis of risk factors for the development of alveolar osteitis. Journal of Oral and Maxillofacial Surgery. 2012 May;70(5):1040-4. doi: 10.1016/j.joms.2011.11.024.
+
+## SciELO / SCOPUS
+
+Ruiz C, Ulloa N, **Halabi D**, Muñoz H. Methodological quality of orthodontic clinical trials, 2012 - 2016. Avances en Odontoestomatología. 2018. Jun;31(20):34-43. doi: 10.22592/ode2018n31a4
+
+Villa J, Meier R, Ruiz P, **Halabi D**. Comparison of marginal adaptation between a monoincremental resin with sonic activation and a conventional resin. Journal of Oral Research. 2015. Dec; 4 (6), 387-392. doi: 10.17126/joralres.2015.074
+
+Miranda S, Gayoso C, Ruiz P, **Halabi D**. Prevalence of neuropathic symptoms in patients referred for temporomandibular disorder in a Chilean hospital, 2014-2015. Journal of Oral Research. 2015 Aug; 4 (4), 263-269. doi: 10.17126/joralres.2015.051.
+
+Juárez I, Hernández M, Letelier C, **Halabi D**, Araneda C. Association between abdominal obesity and periodontal disease. Cross-sectional study. Journal of Oral Research. 2015 April; 4(2): 95-102. doi: 10.17126/joralres.2015.021.
+
+
+## COMMENTED PAPERS
+
+Richards D. Traumatic extraction carries a high risk of a painful dry socket. The Dental Elf. 2012 Feb; available at: http://www.nationalelfservice.net/dentistry/oral-and-maxillofacial-surgery/traumatic-extraction-carries-a-high-risk-of-a-painful-dry-socket/
+
+Congiusta MA, Veitz-Keenan A. Study confirms certain risk factors for development of alveolar osteitis. Evident Based Dentistry. 2013 Sep;14(3):86. doi: 10.1038/sj.ebd.6400954.
+
+El-Kweifi O, Valdez E, Ellis E. CAT of the month. Risk of developing alveolar osteitis post-operatively following dental extraction is positively correlated to smoking (UT CAT #2470). Texas Dental Journal. 2013 Aug;130(8):703.
+
+
+# PARTICIPATION IN NATIONAL & INTERNATIONAL CONGRESSES AND/OR SYMPOSIA (LAST 5 YEARS)
+
+**Halabi D**, Vergara K, Mendez N, Spichiger C, Richter HG, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption programs metabolic syndrome in the rat offspring. XIV Latin American Symposium on Chronobiology (LASC), Valparaiso, Chile, November, 2017.
+
+Mendez N, Vergara K, Spichiger C, **Halabi D**, Vio CP, Richter HG, Torres-Farfan C. Fetal programming of blood pressure by maternal circadian disruption. American Society of Nephrology, Kidney Week, Chicago, November, 2016.
+
+Mendez N, **Halabi D**, Spichiger C, Salazar E, Vergara K, Richter HG, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption impairs circadian physiology in the adult offspring, increasing the risk of chronic disease. Seminario DOHaD Chile 2016, Pontificia Universidad Católica de Chile, Santiago, Chile, June 29-30, 2016
+
+**Halabi D**, Vergara K, Mendez N, Spichiger C, Richter HG, Torres-Farfan C. Maternal chronodisruption during pregnancy alters glucose homeostasis and adipose tissue physiology in the offspring. European Biological Rhythms Society (EBRS)/World Congress of Chronobiology (WCC), Manchester, United Kingdom, August, 2015.
+
+Spichiger C, Salazar ER, Mendez N, **Halabi D**, Vergara K, Alonso-Vazquez P, Seron-Ferre M, Richter HG, Torres-Farfan C. Maternal exposure to chronic shift photoperiod impairs adrenal function in the adult offspring. European Biological Rhythms Society (EBRS)/World Congress of Chronobiology (WCC), Manchester, United Kingdom, August, 2015.
+
+**Halabi D**, Vergara K, Mendez N, Spichiger C, Salazar E, Seron-Ferre M, Richter HG, Torres-Farfan C. Maternal chronodisruption throughout pregnancy impairs glucose homeostasis and adipose tissue physiology in the offspring. 2015 Chronobiology Gordon Research Conference, Girona, Spain, June-July, 2015.
+
+Salazar E, Azpeleta C, Spichiger C, Mendez N, Vergara K, **Halabi D**, Richter HG, Torres-Farfan C. Effects on plasma circadian rhythms and global methylation status in adult offspring gestated under chronodisruption. 2015 Chronobiology Gordon Research Conference, Girona, Spain, June-July, 2015.
+
+Méndez N, **Halabi D**, Vergara K, Richter HG, Torres-Farfan C. Preliminary assessment of blood pressure changes in the adult offspring from gestational chronodisruption in the rat. XXV Congreso Sociedad Chilena de Endocrinología y Diabetes (SOCHED), Punta Arenas, Chile, November 2014.
+
+Spichiger C, Méndez N, **Halabi D**, Vera H, Vergara K, Alonso-Vazquez P, Richter HG, Seron-Ferre M, Torres-Farfan C. Reprogramming of the rat adrenal circadian clock by gestational chronodisruption. XXV Congreso Sociedad Chilena de Endocrinología y Diabetes (SOCHED), Punta Arenas, Chile, November 2014.
+
+Torres-Farfan C, Vergara K, Méndez N, **Halabi D**, Spichiger C, Alonso-Vazquez P, Carmona P, Vera H, Seron-Ferre, Richter HG. Gestational chronodisruption increases the risk of adult chronic disease in the rat. XXV Congreso Sociedad Chilena de Endocrinología y Diabetes (SOCHED), Punta Arenas, Chile, November 2014.
+
+**Halabi D**, Méndez N, Vergara K, Spichiger C, Alonso-Vazquez P, Richter HG, Torres-Farfan C. Impact of gestational chronodisruption on maternal circadian rhythms and fetal growth. Second Artificial Light at Night (ALAN) Conference, Leicester, United Kingdom, September, 2014.
+
+Méndez N, **Halabi D**, Vergara K, Torres-Farfan C, Richter HG. Preliminary assessment of adult blood pressure changes secondary to gestational chronodisruption. Second Artificial Light at Night (ALAN) Conference, Leicester, United Kingdom, September, 2014.
+
+Spichiger C, Méndez N, **Halabi D**, Vera H, Vergara K, Alonso-Vazquez P, Richter HG, Seron-Ferre M, Torres-Farfan C. Reprogramming of adrenal circadian clock outputs by gestational chronodisruption. Second Artificial Light at Night (ALAN) Conference, Leicester, United Kingdom, September, 2014.
+
+Vergara K, Méndez N, **Halabi D**, Spichiger C, Alonso-Vazquez P, Carmona P, Vera H, Richter HG, Torres-Farfan C. Gestational chronodisruption link to increased risk of adult chronic disease. Second Artificial Light at Night (ALAN) Conference, Leicester, United Kingdom, September, 2014.
+
+**Halabi D**, Alvarado C, Martinez N, Muñoz C. Clorhexidina 0,12% no es efectiva previniendo alveolitis, ensayo clínico aleatorio. XXV Annual Meeting of International Association of Dental Research, Chilean Division. Santiago, Chile, October 7- 8, 2013.
+
+**Halabi D**, Mendez N, Alonso-Vazquez P, Vergara K,  Richter HG, Seron-Ferre M, Torres-Farfan C. Effects of chronic phase shifts of the photoperiod throughout pregnancy on maternal circadian rhythms. 40th Annual Meeting of the Fetal and Neonatal Physiological Society (FNPS), Puerto Varas, Chile, September 1-4, 2013
+
+Mendez N, Vera H, **Halabi D**, Spichiger C, Vergara K, Richter HG, Torres-Farfan C. Impact of gestational chronodisruption on adult offspring physiology and therapeutic action of prenatal melatonin. 40th Annual Meeting of the Fetal and Neonatal Physiological Society (FNPS), Puerto Varas, Chile, September 1-4, 2013
+
+**Halabi D**, Vergara K, Mendez N, Richter HG, Torres-Farfan C. Maternal circadian rhythms through gestation: impact of chronic shift of the photoperiod. FASEB Science Research Conferences, Niagara  Falls, New York, USA, July 7-12, 2013
+
+# TRAINING AND TUTORSHIP/CO-TUTORSHIP OF STUDENTS
+
+Andrea Azócar & Francisca Subiabre. "Efectos de los turnos rotativos en flujo y pH salival en enfermeros(as)". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2017.
+
+Cristina Sepúlveda & Luis Jara. "Creación y validación de un instrumento de medición para evaluar conocimiento, actitudes y acceso a la evidencia sobre anestésicos locales en Cirujano Dentistas". **Tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2017.
+
+Fernando Santana & Diego Lavandero. “Validación de un cuestionario para la evaluación de actitudes, conocimiento y barreras en la investigación en estudiantes universitarios del área de la salud de Chile “. **Tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2016.
+
+Bárbara Sanchez. "Superviviencia de implantes dentales cortos en desdentados totales: Revisión sistemática". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2014.
+
+Israel Ponce. "Caracterización del paciente atendido en Clínica de Periodoncia de una población universitaria Chilena entre los años 2008 y 2013". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2014.
+
+Joselyne Lerchundy. "Observación de los niveles de inserción según el biotipo gingival en pacientes sometidos a cirugía de alargamiento coronario y su evolución a los 3 meses". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2014.
+
+Stellamary Hernández & Mariana Wauters. "Higiene bucal, estado y necesidad de tratamiento periodontal en escolares de 12 años, Castro Chile 2014". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2014.
+
+Cyntia Alvarado & Nicolette Martinez. “Chlorhexidine for prevention of alveolar osteitis: randomised clinical trial”. **CO-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2013.
+
+Lagos Paola & Rodríguez José. “Adherencia a la práctica basada en la evidencia por odontólogos chilenos”. **Tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2012.
+
+Natalie Guzmán & Bárbara Mac-Lean. "Tendencias y caracterización de traumatismos dentoalveolares en niños y adolescentes entre 1-15 años, atendidos en el hospital de Valdivia, Chile, 2007-2011". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2012.
+
+Nicolás Arancibia. “Calidad metodológica de ensayos clínicos en publicaciones de Cirugía Maxilofacial en ISI”. **Tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2012.
+
+Valentina Pedreros & Valeria Beroiza. “Relación de los niveles de alfa amilasa salival con el estrés percibido, flujo salival y pulso en  estudiantes de odontología”. **Tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2012.
+
+# REVIEWER AND PANEL BOARD
+
+2016 - actual: Reviewer of full papers submitted to BMC Oral Health, Springer Nature, United Kingdom.
+
+2017 - actual: Technical Reviewer of full projects submitted to Chilean Economic Development Agency (CORFO), Santiago, Chile.
+
+2018 - actual: Member of Medical Science Panel Board, National Commission for Scientific and Technological Research (CONICYT), Santiago, Chile.
+
+# COMMITTEE AND ADMINISTRATIVE SERVICE
+
+2017 - actual: Research Comittee, School of Dentistry, Universidad Austral de Chile.
+
+# SKILLS
+
+## RESEARCH
+
+- Advanced data analysis and modeling methods
+
+- Epidemiological and clinical research
+
+- Physiologhy methods
+
+- Surgery (human and rodents)
+
+- Cell culture
+
+
+## HACKING SKILLS
+
+- Statistical language: R+ (tidyverse), Python
+
+- Statistical Software: RStudio, GraphPad, G*Power, SPSS
+
+- Communication: \LaTeX, RMarkdown, HTML
+
+- Operative Systems: Arch Linux, MacOS, Windows
+
+# REFERENCES
+
+Dr. Claudia Torres-Farfán, Associate professor. Universidad Austral de Chile. Phone: (56)-63-2293021. Mail: claudia.torres@uach.cl
+
+Dr. Hans G Richter, Full Professor, Director of Research. Universidad Austral de Chile. Phone: (56)-63-2221335. Mail: hrichter@uach.cl
