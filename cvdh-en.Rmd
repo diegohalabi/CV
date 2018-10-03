@@ -54,15 +54,15 @@ web: diegohalabi.cl
 
 ## ISI
 
-Segura C, **Halabi D**, Navarro N. Design and validation of a basic Dental Psychomotor Skills Test (DePS) for novice dentistry students. Journal of Dental Education. 2018 Oct;82(10):1098-1104. 10.21815/JDE.018.111
+Segura C, **Halabi D**, Navarro N. Design and Validation of a Basic Dental Psychomotor Skills Test for Novice Dental Students. Journal of Dental Education. 2018 Oct;82(10):1098-1104. 10.21815/JDE.018.111
 
-Salazar E, Richter H, Spichiger C, Mendez N, **Halabi D**, Vergara K, Alonso-Vasquez P, Corvalan F, Azpeleta C, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption leads to persistent changes in foetal and adult adrenal clock and function. The Journal of Physiology. 2018 Aug 17. doi: 10.1113/JP276083.
+Salazar E, Richter H, Spichiger C, Mendez N, **Halabi D**, Vergara K, Alonso-Vasquez P, Corvalan F, Azpeleta C, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption leads to persistent changes in foetal and adult adrenal clock and function. The Journal of Physiology. 2018 Aug 17. doi: 10.1113/JP276083
 
 **Halabi D**, Escobar J, Alvarado CA, Martinez NM, Muñoz C. Chlorhexidine for prevention of alveolar osteitis: randomised clinical trial. Journal of Applied Oral Science. 2018; 26:e20170245. doi: 10.1590/1678-7757-2017-0245
 
 Mendez N & **Halabi D**, Spichiguer C, Salazar E, Vergara K, Alonso-Vasquez P, Carmona P, Sarmiento J, Richer H, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption impairs circadian physiology in rat male offspring, increasing the risk of chronic disease. Endocrinology. 2016 Dec;157(12):4654-4668. doi:  10.1210/en.2016-1282
 
-**Halabi D**, Escobar J, Muñoz C, Uribe S. Logistic regression analysis of risk factors for the development of alveolar osteitis. Journal of Oral and Maxillofacial Surgery. 2012 May;70(5):1040-4. doi: 10.1016/j.joms.2011.11.024.
+**Halabi D**, Escobar J, Muñoz C, Uribe S. Logistic regression analysis of risk factors for the development of alveolar osteitis. Journal of Oral and Maxillofacial Surgery. 2012 May;70(5):1040-4. doi: 10.1016/j.joms.2011.11.024
 
 ## SciELO / SCOPUS
 
@@ -70,9 +70,9 @@ Ruiz C, Ulloa N, **Halabi D**, Muñoz H. Methodological quality of orthodontic c
 
 Villa J, Meier R, Ruiz P, **Halabi D**. Comparison of marginal adaptation between a monoincremental resin with sonic activation and a conventional resin. Journal of Oral Research. 2015. Dec; 4 (6), 387-392. doi: 10.17126/joralres.2015.074
 
-Miranda S, Gayoso C, Ruiz P, **Halabi D**. Prevalence of neuropathic symptoms in patients referred for temporomandibular disorder in a Chilean hospital, 2014-2015. Journal of Oral Research. 2015 Aug; 4 (4), 263-269. doi: 10.17126/joralres.2015.051.
+Miranda S, Gayoso C, Ruiz P, **Halabi D**. Prevalence of neuropathic symptoms in patients referred for temporomandibular disorder in a Chilean hospital, 2014-2015. Journal of Oral Research. 2015 Aug; 4 (4), 263-269. doi: 10.17126/joralres.2015.051
 
-Juárez I, Hernández M, Letelier C, **Halabi D**, Araneda C. Association between abdominal obesity and periodontal disease. Cross-sectional study. Journal of Oral Research. 2015 April; 4(2): 95-102. doi: 10.17126/joralres.2015.021.
+Juárez I, Hernández M, Letelier C, **Halabi D**, Araneda C. Association between abdominal obesity and periodontal disease. Cross-sectional study. Journal of Oral Research. 2015 April; 4(2): 95-102. doi: 10.17126/joralres.2015.021
 
 
 ## COMMENTED PAPERS
@@ -138,7 +138,7 @@ Joselyne Lerchundy. "Observación de los niveles de inserción según el biotipo
 
 Stellamary Hernández & Mariana Wauters. "Higiene bucal, estado y necesidad de tratamiento periodontal en escolares de 12 años, Castro Chile 2014". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2014.
 
-Cyntia Alvarado & Nicolette Martinez. “Chlorhexidine for prevention of alveolar osteitis: randomised clinical trial”. **CO-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2013.
+Cyntia Alvarado & Nicolette Martinez. “Chlorhexidine for prevention of alveolar osteitis: randomised clinical trial”. **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2013.
 
 Lagos Paola & Rodríguez José. “Adherencia a la práctica basada en la evidencia por odontólogos chilenos”. **Tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2012.
 
@@ -177,7 +177,7 @@ Valentina Pedreros & Valeria Beroiza. “Relación de los niveles de alfa amilas
 
 ## HACKING SKILLS
 
-- Statistical language: R+ (tidyverse), Python
+- Statistical language: R+ (tidyverse), Python, SQL
 
 - Statistical Software: RStudio, GraphPad, G*Power, SPSS
 
