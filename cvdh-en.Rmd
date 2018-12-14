@@ -56,9 +56,9 @@ web: diegohalabi.cl
 
 Segura C, **Halabi D**, Navarro N. Design and Validation of a Basic Dental Psychomotor Skills Test for Novice Dental Students. Journal of Dental Education. 2018 Oct;82(10):1098-1104. 10.21815/JDE.018.111
 
-Salazar E, Richter H, Spichiger C, Mendez N, **Halabi D**, Vergara K, Alonso-Vasquez P, Corvalan F, Azpeleta C, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption leads to persistent changes in foetal and adult adrenal clock and function. The Journal of Physiology. 2018 Aug 17. doi: 10.1113/JP276083
+Salazar E, Richter H, Spichiger C, Mendez N, **Halabi D**, Vergara K, Alonso-Vasquez P, Corvalan F, Azpeleta C, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption leads to persistent changes in foetal and adult adrenal clock and function. The Journal of Physiology. 2018 Dec;596(23):5839-5857. doi: 10.1113/JP276083
 
-**Halabi D**, Escobar J, Alvarado CA, Martinez NM, Muñoz C. Chlorhexidine for prevention of alveolar osteitis: randomised clinical trial. Journal of Applied Oral Science. 2018; 26:e20170245. doi: 10.1590/1678-7757-2017-0245
+**Halabi D**, Escobar J, Alvarado CA, Martinez NM, Muñoz C. Chlorhexidine for prevention of alveolar osteitis: randomised clinical trial. Journal of Applied Oral Science. 2018 May;26:e20170245. doi: 10.1590/1678-7757-2017-0245
 
 Mendez N & **Halabi D**, Spichiguer C, Salazar E, Vergara K, Alonso-Vasquez P, Carmona P, Sarmiento J, Richer H, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption impairs circadian physiology in rat male offspring, increasing the risk of chronic disease. Endocrinology. 2016 Dec;157(12):4654-4668. doi:  10.1210/en.2016-1282
 
@@ -85,6 +85,12 @@ El-Kweifi O, Valdez E, Ellis E. CAT of the month. Risk of developing alveolar os
 
 
 # PARTICIPATION IN NATIONAL & INTERNATIONAL CONGRESSES AND/OR SYMPOSIA (LAST 5 YEARS)
+
+**Halabi D**, Salazar E, Mendez N, Spichiger C, Vergara K, Ehrenfeld P, Kahne T*, Richter HG,
+Torres-Farfan C. Gestational chronodisruption induces metabolic syndrome phenotype in the rat offspring. XXXIII Reunión Anual de la Sociedad Chilena de Ciencias Fisiológicas - International Society for Heart Research, Reserva Biológica Huilo-Huilo, Chile, August, 2018.
+
+Torres-Farfan C, Corvalan F, **Halabi D**, Salazar E, Mendez N, Vergara K, Ehrenfeld P, Richter
+HG.. Maternal melatonin treatment prevents deleterious effects of gestational chronodisruption in rat offspring. XXXIII Reunión Anual de la Sociedad Chilena de Ciencias Fisiológicas - International Society for Heart Research, Reserva Biológica Huilo-Huilo, Chile, August, 2018.
 
 **Halabi D**, Vergara K, Mendez N, Spichiger C, Richter HG, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption programs metabolic syndrome in the rat offspring. XIV Latin American Symposium on Chronobiology (LASC), Valparaiso, Chile, November, 2017.
 
@@ -189,4 +195,4 @@ Valentina Pedreros & Valeria Beroiza. “Relación de los niveles de alfa amilas
 
 Dr. Claudia Torres-Farfán, Associate professor. Universidad Austral de Chile. Phone: (56)-63-2293021. Mail: claudia.torres@uach.cl
 
-Dr. Hans G Richter, Full Professor, Director of Research. Universidad Austral de Chile. Phone: (56)-63-2221335. Mail: hrichter@uach.cl
+Dr. Hans G Richter, Full Professor, Vice Chancellor of Research, Development & Arts. Universidad Austral de Chile. Phone: (56)-63-2221335. Mail: hrichter@uach.cl
