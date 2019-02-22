@@ -53,6 +53,7 @@ web: diegohalabi.cl
 # PUBLICATIONS
 
 ## ISI
+Silva ME, Lange S, Hinrichsen B, Philp A, Reyes CR, **Halabi D**, *et al*. Pericytes Favour Oligodendrocyte Fate Choice in Adult Neural Stem Cells. Frontiers in Cellular Neuroscience. 2019 *In Press*. doi: 10.3389/fncel.2019.00085
 
 Segura C, **Halabi D**, Navarro N. Design and Validation of a Basic Dental Psychomotor Skills Test for Novice Dental Students. Journal of Dental Education. 2018 Oct;82(10):1098-1104. 10.21815/JDE.018.111
 
@@ -128,7 +129,23 @@ Mendez N, Vera H, **Halabi D**, Spichiger C, Vergara K, Richter HG, Torres-Farfa
 
 **Halabi D**, Vergara K, Mendez N, Richter HG, Torres-Farfan C. Maternal circadian rhythms through gestation: impact of chronic shift of the photoperiod. FASEB Science Research Conferences, Niagara  Falls, New York, USA, July 7-12, 2013
 
+# KEY SPEAKER
+
+Elementos para tesis de pre-grado en la investigación científica. Universidad Austral de Chile, Valdivia, Chile, June, 2018
+
+Bioestadística y Manejo de Datos para los Estudiantes del Programa de Honor en Investigación. Universidad Austral de Chile, Valdivia, Chile, July 2018
+
+De relojes y energía, efecto de la cronodisrupción durante la gestación en el metabolismo de su descendencia – Implicancias para la Odontología. IADR Young Researchers Symposium, Santiago, Chile, July, 2018
+
+Escritura Científica para Estudiantes del Programa de Honor en Investigación. Universidad Austral de Chile, Valdivia, Chile, November, 2018
+
 # TRAINING AND TUTORSHIP/CO-TUTORSHIP OF STUDENTS
+
+Fernanda Cortéz & Fernanda Pérez. "Nivel de conocimiento y actitud de basquetbolistas profesionales frente al trauma dentoalveolar y uso de protector bucal, en el sur de Chile, 2018". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2018.
+
+Andy Antipichún. "Oscilación del flujo y pH salival en trabajadores con turnos nocturnos". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2018.
+
+Mariana Quilodrán. "Correlación entre estado de salud periodontal y desempeño cognitivo: un estudio transversal". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2018.
 
 Andrea Azócar & Francisca Subiabre. "Efectos de los turnos rotativos en flujo y pH salival en enfermeros(as)". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2017.
 
