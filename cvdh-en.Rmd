@@ -36,11 +36,7 @@ web: diegohalabi.cl
 
 2018-actual. Assistant Professor, School of Dentistry, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile. Resol.106/2018.
 
-2017-actual. Guest Professor, Institute of Public Health, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
-
-2014-2017. Guest Professor (Pathophysiology course), Institute of Anatomy, Histology and Pathology, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
-
-2012-2017. Adjunt Professor, School of Dentistry, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
+2012-2017. Adjunt Professor, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
 
 2006-2011. Undergraduate Teaching Assistant (Human Anatomy, Head and Neck Anatomy, Clinical Periodontology and Research Methods). Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
 
@@ -53,9 +49,12 @@ web: diegohalabi.cl
 # PUBLICATIONS
 
 ## ISI
-Silva ME, Lange S, Hinrichsen B, Philp A, Reyes CR, **Halabi D**, *et al*. Pericytes Favour Oligodendrocyte Fate Choice in Adult Neural Stem Cells. Frontiers in Cellular Neuroscience. 2019 *In Press*. doi: 10.3389/fncel.2019.00085
 
-Segura C, **Halabi D**, Navarro N. Design and Validation of a Basic Dental Psychomotor Skills Test for Novice Dental Students. Journal of Dental Education. 2018 Oct;82(10):1098-1104. 10.21815/JDE.018.111
+Mendez N, Torres-Farfan C, Salazar E, Bascur P, Bastidas C, Vergara K, Spichiger C, **Halabi D**, *el al*. Fetal programming of renal dysfunction and high blood pressure by chronodisruption. 2019 May;10:362. doi: 10.3389/fendo.2019.00362
+
+Silva ME, Lange S, Hinrichsen B, Philp A, Reyes CR, **Halabi D**, *et al*. Pericytes Favour Oligodendrocyte Fate Choice in Adult Neural Stem Cells. Frontiers in Cellular Neuroscience. 2019 Mar 27;13:85. doi: 10.3389/fncel.2019.00085
+
+Segura C, **Halabi D**, Navarro N. Design and Validation of a Basic Dental Psychomotor Skills Test for Novice Dental Students. Journal of Dental Education. 2018 Oct;82(10):1098-1104. doi: 10.21815/JDE.018.111
 
 Salazar E, Richter H, Spichiger C, Mendez N, **Halabi D**, Vergara K, Alonso-Vasquez P, Corvalan F, Azpeleta C, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption leads to persistent changes in foetal and adult adrenal clock and function. The Journal of Physiology. 2018 Dec;596(23):5839-5857. doi: 10.1113/JP276083
 
@@ -91,7 +90,7 @@ El-Kweifi O, Valdez E, Ellis E. CAT of the month. Risk of developing alveolar os
 Torres-Farfan C. Gestational chronodisruption induces metabolic syndrome phenotype in the rat offspring. XXXIII Reunión Anual de la Sociedad Chilena de Ciencias Fisiológicas - International Society for Heart Research, Reserva Biológica Huilo-Huilo, Chile, August, 2018.
 
 Torres-Farfan C, Corvalan F, **Halabi D**, Salazar E, Mendez N, Vergara K, Ehrenfeld P, Richter
-HG.. Maternal melatonin treatment prevents deleterious effects of gestational chronodisruption in rat offspring. XXXIII Reunión Anual de la Sociedad Chilena de Ciencias Fisiológicas - International Society for Heart Research, Reserva Biológica Huilo-Huilo, Chile, August, 2018.
+HG. Maternal melatonin treatment prevents deleterious effects of gestational chronodisruption in rat offspring. XXXIII Reunión Anual de la Sociedad Chilena de Ciencias Fisiológicas - International Society for Heart Research, Reserva Biológica Huilo-Huilo, Chile, August, 2018.
 
 **Halabi D**, Vergara K, Mendez N, Spichiger C, Richter HG, Seron-Ferre M, Torres-Farfan C. Gestational chronodisruption programs metabolic syndrome in the rat offspring. XIV Latin American Symposium on Chronobiology (LASC), Valparaiso, Chile, November, 2017.
 
