@@ -21,7 +21,7 @@ address: Faculty of Medicine, Universidad Austral de Chile. Isla Teja S/N, Valdi
   Chile.
 updated: no
 urlcolor: blue
-web: diegohalabi.cl
+web: diegohalabi.github.io
 ---
 
 # HIGHER EDUCATION
@@ -42,7 +42,7 @@ web: diegohalabi.cl
 
 ## PROFESSIONAL
 
-2018-actual. Postgraduate Scholarship Evaluator. National Commission for the Scientific and Technology Research of Chile (CONICYT), Santiago, Chile.
+2018-actual. Technical Referee. National Commission for the Scientific and Technology Research of Chile (CONICYT), Santiago, Chile.
 
 2013-2017. Doctoral Researcher, Grants: Conicyt Anillo ACT-1116, Fondecyt 1110220, and Fondecyt 1120938. Universidad Austral de Chile, Valdivia, Chile.
 
@@ -96,6 +96,8 @@ El-Kweifi O, Valdez E, Ellis E. CAT of the month. Risk of developing alveolar os
 
 Mendez N, **Halabi D**, Ehrenfeld P, Vergara K, Spichiger C, Salazar E, Richter HG, Kähne T, Torres-Farfan C. Gestational Circadian Disruption by Light, Makes Vulnerable to Disease Development. XV Latin American Symposium on Chronobiology (LASC), Colonia Del Sacramento, Uruguay, October, 2019.
 
+Rivera FJ, Silva ME, Lange S, Hinrichsen B, Philp A, Reyes CR, **Halabi D**, Mansilla J, Rotheneichner P, Guzman de la Fuente A, Couillard-Despres S, Bátiz LF, Franklin RJM, Aigner L. Soluble Factors Derived from Brain Pericytes Promote Neural Stem Cells to Generate Oligodendrocytes. XIV European Meeting on Glial Cells in Health and Disease (GLIA 2019). Porto, Portugal, July, 2019.
+
 **Halabi D**, Salazar E, Mendez N, Spichiger C, Vergara K, Ehrenfeld P, Kahne T*, Richter HG,
 Torres-Farfan C. Gestational chronodisruption induces metabolic syndrome phenotype in the rat offspring. XXXIII Reunión Anual de la Sociedad Chilena de Ciencias Fisiológicas - International Society for Heart Research, Reserva Biológica Huilo-Huilo, Chile, August, 2018.
 
@@ -130,13 +132,6 @@ Spichiger C, Méndez N, **Halabi D**, Vera H, Vergara K, Alonso-Vazquez P, Richt
 
 Vergara K, Méndez N, **Halabi D**, Spichiger C, Alonso-Vazquez P, Carmona P, Vera H, Richter HG, Torres-Farfan C. Gestational chronodisruption link to increased risk of adult chronic disease. Second Artificial Light at Night (ALAN) Conference, Leicester, United Kingdom, September, 2014.
 
-**Halabi D**, Alvarado C, Martinez N, Muñoz C. Clorhexidina 0,12% no es efectiva previniendo alveolitis, ensayo clínico aleatorio. XXV Annual Meeting of International Association of Dental Research, Chilean Division. Santiago, Chile, October 7- 8, 2013.
-
-**Halabi D**, Mendez N, Alonso-Vazquez P, Vergara K,  Richter HG, Seron-Ferre M, Torres-Farfan C. Effects of chronic phase shifts of the photoperiod throughout pregnancy on maternal circadian rhythms. 40th Annual Meeting of the Fetal and Neonatal Physiological Society (FNPS), Puerto Varas, Chile, September 1-4, 2013
-
-Mendez N, Vera H, **Halabi D**, Spichiger C, Vergara K, Richter HG, Torres-Farfan C. Impact of gestational chronodisruption on adult offspring physiology and therapeutic action of prenatal melatonin. 40th Annual Meeting of the Fetal and Neonatal Physiological Society (FNPS), Puerto Varas, Chile, September 1-4, 2013
-
-**Halabi D**, Vergara K, Mendez N, Richter HG, Torres-Farfan C. Maternal circadian rhythms through gestation: impact of chronic shift of the photoperiod. FASEB Science Research Conferences, Niagara  Falls, New York, USA, July 7-12, 2013
 
 # KEY SPEAKER
 
@@ -184,9 +179,11 @@ Valentina Pedreros & Valeria Beroiza. “Relación de los niveles de alfa amilas
 
 2016 - actual: Reviewer of full papers submitted to BMC Oral Health, Springer Nature, United Kingdom.
 
-2017 - actual: Technical Reviewer of full projects submitted to Chilean Economic Development Agency (CORFO), Santiago, Chile.
+2017 - actual: Technical Referee of full projects submitted to Chilean Economic Development Agency (CORFO), Santiago, Chile.
 
-2018 - actual: Member of Medical Science Panel Board, National Commission for Scientific and Technological Research (CONICYT), Santiago, Chile.
+2018 - 2019: Technical Referee of full Grants and Scolarships at Medical Science Board, National Commission for Scientific and Technological Research (CONICYT), Santiago, Chile.
+
+2020 - actual: Technical Referee of full Grants and Scolarships at Medical Science Board, National Agency for Research and Development (ANID), Santiago, Chile.
 
 # COMMITTEE AND ADMINISTRATIVE SERVICE
 
