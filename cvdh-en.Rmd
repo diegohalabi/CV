@@ -26,35 +26,39 @@ web: diegohalabi.github.io
 
 # HIGHER EDUCATION
 
-2005-2011: Doctor on Dental Surgery (**DDS**). School of Dentistry, Universidad Austral de Chile. Valdivia, Chile. Thesis: Logistic Regression Analysis of Risk Factors for the Development of Alveolar Osteitis.
+2005 - 2011: Doctor on Dental Surgery (**DDS**). School of Dentistry, Universidad Austral de Chile. Valdivia, Chile. Thesis: Logistic Regression Analysis of Risk Factors for the Development of Alveolar Osteitis.
 
-2012-2017: Doctor on Medical Science (**PhD**). Faculty of Medicine, Universidad Austral de Chile. Valdivia, Chile. Thesis: Maternal chronodisruption throughout pregnancy impairs glucose homeostasis and adipose tissue physiology in the offspring.
+2012 - 2017: Doctor on Medical Science (**PhD**). Faculty of Medicine, Universidad Austral de Chile. Valdivia, Chile. Thesis: Maternal chronodisruption throughout pregnancy impairs glucose homeostasis and adipose tissue physiology in the offspring.
 
 # EXPERIENCE
 
 ## ACADEMIC
 
-2018-actual. Assistant Professor, School of Dentistry, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile. Resol.106/2018.
+2018 - actual. Assistant Professor, School of Dentistry, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile. Resol.106/2018.
 
-2012-2017. Adjunt Professor, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
+2012 - 2017. Adjunt Professor, Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
 
-2006-2011. Undergraduate Teaching Assistant (Human Anatomy, Head and Neck Anatomy, Clinical Periodontology and Research Methods). Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
+2006 - 2011. Undergraduate Teaching Assistant (Human Anatomy, Head and Neck Anatomy, Clinical Periodontology and Research Methods). Faculty of Medicine, Universidad Austral de Chile, Valdivia, Chile.
 
 ## PROFESSIONAL
 
-2018-actual. Technical Referee. National Commission for the Scientific and Technology Research of Chile (CONICYT), Santiago, Chile.
+2018 - actual. Technical Referee. National Commission for the Scientific and Technology Research of Chile (CONICYT), Santiago, Chile.
 
-2013-2017. Doctoral Researcher, Grants: Conicyt Anillo ACT-1116, Fondecyt 1110220, and Fondecyt 1120938. Universidad Austral de Chile, Valdivia, Chile.
+2013 - 2017. Doctoral Researcher, Grants: Conicyt Anillo ACT-1116, Fondecyt 1110220, and Fondecyt 1120938. Universidad Austral de Chile, Valdivia, Chile.
 
 # GRANTS
 
-2019-2021, FONDECYT 11190711. A white and brown balance of obesity; developmental programming of adipose tissue by chronodisruption. **Principal Investigator**.
+2019 - 2021, FONDECYT 11190711. A white and brown balance of obesity; developmental programming of adipose tissue by chronodisruption. **Principal Investigator**.
 
-2018-2020, FONDEF ID17AM0043. La fuente de la juventud: desarrollo de un suplemento antioxidante, antiinflamatorio y neuroregenerativo derivado del lúpulo para el rejuvenecimiento cerebral. **Postdoctoral Researcher**.
+2018 - 2020, FONDEF ID17AM0043. La fuente de la juventud: desarrollo de un suplemento antioxidante, antiinflamatorio y neuroregenerativo derivado del lúpulo para el rejuvenecimiento cerebral. **Postdoctoral Researcher**.
 
 # PUBLICATIONS
 
-## ISI
+Richter HG, Mendez N, **Halabi D**, Torres-Farfan C, Spichiger C. New integrative approaches to discovery of pathophysiological mechanisms triggered by night shift work. Chronobiol Int. 2021 Nov 2;1-16. doi: 10.1080/07420528.2021.1994984.
+
+**Halabi D**, Richter HG, Mendez N, Kaehne T, Spichiger C, Salazar E, Torres F, Vergara K, Seron-Ferre M, Torres-Farfan C. Maternal chronodisruption throughout pregnancy impairs glucose homeostasis and adipose tissue physiology in the male rat offspring. Frontiers in Endocrinology. 2020 Aug 8;12:678468. doi: 10.3389/fendo.2021.678468
+
+**Halabi D**, Ehrenfeld P, Mendez N, Richter HG, Torres-Farfan C. Fetal programming of adipose tissue function by gestational chronodisruption. Sleep Science. 2020 Jul; 13(Supl.2):51-8. doi: 10.5935/1984-0063.20200014
 
 Mendez N, Torres-Farfan C, Salazar E, Bascur P, Bastidas C, Vergara K, Spichiger C, **Halabi D**, *el al*. Fetal programming of renal dysfunction and high blood pressure by chronodisruption. Frontiers in Endocrinology. 2019 Jun 6;10:362. doi: 10.3389/fendo.2019.00362
 
@@ -70,7 +74,6 @@ Mendez N & **Halabi D**, Spichiguer C, Salazar E, Vergara K, Alonso-Vasquez P, C
 
 **Halabi D**, Escobar J, Muñoz C, Uribe S. Logistic regression analysis of risk factors for the development of alveolar osteitis. Journal of Oral and Maxillofacial Surgery. 2012 May;70(5):1040-4. doi: 10.1016/j.joms.2011.11.024
 
-## SciELO / SCOPUS
 
 Ruiz C, Ulloa N, **Halabi D**, Muñoz H. Methodological quality of orthodontic clinical trials, 2012 - 2016. Avances en Odontoestomatología. 2018. Jun;31(20):34-43. doi: 10.22592/ode2018n31a4
 
@@ -83,7 +86,7 @@ Juárez I, Hernández M, Letelier C, **Halabi D**, Araneda C. Association betwee
 
 ## COMMENTED PAPERS
 
-Richards D. Traumatic extraction carries a high risk of a painful dry socket. The Dental Elf. 2012 Feb; available at: http://www.nationalelfservice.net/dentistry/oral-and-maxillofacial-surgery/traumatic-extraction-carries-a-high-risk-of-a-painful-dry-socket/
+Varcoe T. Timing is everything: maternal circadian rhythms and the developmental origins of health and disease. J Physiol. 2018 Dec;596(23):5493-5494. doi: 10.1113/JP276992.
 
 Congiusta MA, Veitz-Keenan A. Study confirms certain risk factors for development of alveolar osteitis. Evident Based Dentistry. 2013 Sep;14(3):86. doi: 10.1038/sj.ebd.6400954.
 
@@ -91,6 +94,8 @@ El-Kweifi O, Valdez E, Ellis E. CAT of the month. Risk of developing alveolar os
 
 
 # PARTICIPATION IN NATIONAL & INTERNATIONAL CONGRESSES AND/OR SYMPOSIA (LAST 5 YEARS)
+
+Rivera FJ, Silva ME, Lange S, Hinrichsen B, Philp AR, Reyes CR, **Halabi D**, et al. Soluble factors derived from brain pericytes promote neural stem cells to generate oligodendrocytes. XIV European Meeting on Glial Cells in Health and Disease (GLIA), Porto, Portugal, July, 2019.
 
 **Halabi D**, Mendez N, Ehrenfeld P, Vergara K, Spichiger C, Salazar E, Richter HG, Kähne T, Torres-Farfan C. Maternal Chronodisruption During Pregnancy Impairs Adipose Tissue Proteome in the Adult Offspring. XV Latin American Symposium on Chronobiology (LASC), Colonia Del Sacramento, Uruguay, October, 2019.
 
@@ -135,15 +140,24 @@ Vergara K, Méndez N, **Halabi D**, Spichiger C, Alonso-Vazquez P, Carmona P, Ve
 
 # KEY SPEAKER
 
-Elementos para tesis de pre-grado en la investigación científica. Universidad Austral de Chile, Valdivia, Chile, June, 2018
+Cronodisrupción y las consecuencias futuras en el feto. VIII Curso para Especialistas “El futuro del sueño” y I Curso para Atención primaria. Sociedad Chilena de Medicina del Sueño SOCHIMES, Santiago, Chile, September 2021.
+
+Los relojes biológicos en Odontología: un nuevo factor en el engranaje de la salud. XXXII International Asociation of Dental Research IADR, Santiago, Chile, June, 2020.
 
 Bioestadística y Manejo de Datos para los Estudiantes del Programa de Honor en Investigación. Universidad Austral de Chile, Valdivia, Chile, July 2018
 
 De relojes y energía, efecto de la cronodisrupción durante la gestación en el metabolismo de su descendencia – Implicancias para la Odontología. IADR Young Researchers Symposium, Santiago, Chile, July, 2018
 
-Escritura Científica para Estudiantes del Programa de Honor en Investigación. Universidad Austral de Chile, Valdivia, Chile, November, 2018
 
 # TRAINING AND TUTORSHIP/CO-TUTORSHIP OF STUDENTS
+
+Cristina Sepúlveda. "Pérdida ecónomica por inasistencia de usuarios agendados en Centro Comunitario de Salud Familiar Collico, Valdivia". **Tutor** (Master of Business Administration). Faculty of Economics, Universidad Austral de Chile. 2021.
+
+Karla Martínez. “Origen fetal de la inflamación grónica de bajo grado en la obesidad efecto de la cronodisrupción gestacional”. **Tutor** (Bachelor of Science Thesis). Faculty of Science, Universidad Austral de Chile. 2021.
+
+Katiushka Sanhueza. “Programación fetal de enfermedades no transmisibles y su relación con la cronodisrupción gestacional: una revisión de los mecanismos epigenéticos asociados y evidencia de reprogramación con melotonina”. **Tutor** (Bachelor of Science Thesis). Faculty of Science, Universidad Austral de Chile. 2021.
+
+Constanza Bustos & Constanza Cristi. “Relación entre urea y mecanismos moleculares de salivación. Estudio in-vivo”. **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2019.
 
 Fernanda Cortéz & Fernanda Pérez. "Nivel de conocimiento y actitud de basquetbolistas profesionales frente al trauma dentoalveolar y uso de protector bucal, en el sur de Chile, 2018". **Co-tutor** (Dentistry Thesis). School of Dentistry, Universidad Austral de Chile. 2018.
 
@@ -177,15 +191,15 @@ Valentina Pedreros & Valeria Beroiza. “Relación de los niveles de alfa amilas
 
 # REVIEWER AND PANEL BOARD
 
-2016 - actual: Reviewer of full papers submitted to BMC Oral Health, Springer Nature, United Kingdom.
+2020 - actual: Review Editor, Frontiers in Oral Health, Frontiers Media, Lausanne, Switzerland.
 
-2017 - actual: Technical Referee of full projects submitted to Chilean Economic Development Agency (CORFO), Santiago, Chile.
+2018 - actual: Reviewer of full Grants and Scolarchips submitted to Medical Science Panel Board, National Research and Development Agency (ANID), Santiago, Chile.
 
-2018 - 2019: Technical Referee of full Grants and Scolarships at Medical Science Board, National Commission for Scientific and Technological Research (CONICYT), Santiago, Chile.
-
-2020 - actual: Technical Referee of full Grants and Scolarships at Medical Science Board, National Agency for Research and Development (ANID), Santiago, Chile.
+2016 - actual: Reviewer of full papers submitted to BMC Oral Health, Frontiers in Endocrinology and BMJ Case Reports.
 
 # COMMITTEE AND ADMINISTRATIVE SERVICE
+
+2020 - actual: Director of Honor Medical Research Program (Programa Honor de Investigación en Medicina; Resol. 019/2020), Faculty of Medicine, Universidad Austral de Chile.
 
 2019 - 2020: Chairman of Deparment (Resol. 257/2019), Institute of Dentistry, Universidad Austral de Chile.
 
@@ -226,6 +240,6 @@ Valentina Pedreros & Valeria Beroiza. “Relación de los niveles de alfa amilas
 
 # REFERENCES
 
-Dr. Claudia Torres-Farfán, Associate professor. Universidad Austral de Chile. Phone: (56)-63-2293021. Mail: claudia.torres@uach.cl
+Dr. Claudia Torres-Farfán, Full Professor. Universidad Austral de Chile. Phone: (56)-63-2293021. Mail: claudia.torres@uach.cl
 
-Dr. Hans G Richter, Full Professor, Vice Chancellor of Research, Development & Arts. Universidad Austral de Chile. Phone: (56)-63-2221335. Mail: hrichter@uach.cl
+Dr. Hans G Richter, Chancellor. Universidad Austral de Chile. Phone: (56)-63-2221335. Mail: hrichter@uach.cl
